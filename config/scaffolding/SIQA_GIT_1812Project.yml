@@ -12,6 +12,11 @@ packages:
   gitUrl: https://github.com/Karthik-V-IBM-10
   gitUsername: rimabarman
   gitBranch: main
+- name: SIQA_OriginTest_OnPremAssets
+  gitServerName: rimaSCName
+  gitUrl: https://github.com/vijetadixit
+  gitUsername: rimabarman
+  gitBranch: Test
 services:
 - serviceName: project.siqa_git_1812.integrations:Call_refData
   packages:
